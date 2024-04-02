@@ -46,3 +46,18 @@ b=Vector3(2,1,0)
 v1=a+b
 print(v1)
 
+v2=a-b
+print(v2)
+
+v3=a*b
+print(v3)
+
+v4=a.cross(b)
+print(v4)
+
+v5=a.dot(b)
+print(v5)
+
+v6=a.normalize()
+print(v6)
+
